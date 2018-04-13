@@ -1,0 +1,8 @@
+{
+	"email_username": "example@example.com",
+	"email_name": "Craigslist Watcher",
+	"email_password": "password",
+	"saved_search_directory": "/path/to/saved/search/directory",
+	"max_searches_per_minute": 60,
+	"base_url": "http://localhost:8080"
+}
